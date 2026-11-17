@@ -10,6 +10,16 @@ Le marché alterne-t-il entre des régimes identifiables de faible ou forte vola
 - Date de téléchargement : 17/11/2026
 - Licence / conditions d'utilisation : à vérifier
 
+
+## Données complémentaires — USREC
+- Source : Federal Reserve Economic Data (FRED)
+- Série : USREC
+- Description : indicateur des périodes de récession aux États-Unis
+- URL : https://fred.stlouisfed.org/graph/fredgraph.csv?id=USREC
+- Date de téléchargement : 17/11/2026
+- Licence / conditions d'utilisation : à vérifier
+
+
 ## Méthodes prévues
 - Calcul des rendements et de la volatilité
 - Standardisation des données
